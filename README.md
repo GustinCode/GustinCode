@@ -37,5 +37,5 @@ I made an portfolio with a simple resume of my knowledge of computing and tech's
   <img height=200 width=400 flex="flex" justify="center" title = "GustinGame Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinGame&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
-  <img height=200 width=100% title = "GustinGame Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinGame&theme=react&hide_border=false&background=000" />
+  <img height=200 width=100% title = "GustinGame Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinGame&theme=react&theme=midnight-purple&hide_border=false&background=000" />
 </a>
