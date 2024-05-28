@@ -5,7 +5,7 @@ I enjoy studing new tecnologies and new things about tech🖥️!!!
 
 ## 💻 Portfolio
 I made an portfolio with a simple resume of my knowledge of computing and tech's
-[link](portfolio-tau-nine-38.vercel.app)
+[link](https://vertex-app.vercel.app/)
 
 ## 🖥️ Tech Stack
 
