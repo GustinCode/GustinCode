@@ -33,17 +33,19 @@ Check out my portfolio where I showcase a brief summary of my knowledge and proj
 
 ## 🌐 Connect with Me
 
-[![E-mail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:gustavogoncalves3ch@gmail.com)
+[![E-mail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:gustavogoncalves3ch@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gustavohenrique-dev/)
 
 ## 📊 GitHub Stats
 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"> 
 <a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
   <img height=200 width=400 title ="GustinGame GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GustinGame&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
   <img height=200 width=400 title="GustinGame Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinGame&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" />
 </a>
+</div>
 <a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
   <img height=200 width=100% title="GustinGame GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinGame&theme=midnight-purple&hide_border=false" />
 </a>
