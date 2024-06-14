@@ -39,15 +39,15 @@ Check out my portfolio where I showcase a brief summary of my knowledge and proj
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"> 
-<a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
-  <img height=200 width=400 title ="GustinGame GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GustinGame&show_icons=true&theme=midnight-purple&hide_border=true" />
+<a href="https://github.com/GustinCode/GustinCode/blob/main/README.md">
+  <img height=200 width=400 title ="GustinCode GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GustinCode&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
-<a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
-  <img height=200 width=400 title="GustinGame Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinGame&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" />
+<a href="https://github.com/GustinCode/GustinCode/blob/main/README.md">
+  <img height=200 width=400 title="GustinCode Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinCode&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
-<a href="https://github.com/GustinGame/GustinGame/blob/main/README.md">
-  <img height=200 width=100% title="GustinGame GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinGame&theme=midnight-purple&hide_border=false" />
+<a href="https://github.com/GustinCode/GustinCode/blob/main/README.md">
+  <img height=200 width=100% title="GustinCode GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinCode&theme=midnight-purple&hide_border=false" />
 </a>
 
 Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build something amazing together!
