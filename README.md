@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer on a journey 
 ## 💼 Portfolio
 
 Check out my portfolio where I showcase a brief summary of my knowledge and projects:
-[Vertex Portfolio](https://vertex-app.vercel.app/)
+[My Portfolio](https://vertex-app.vercel.app/)
 
 ## 🛠️ Tech Stack
 
