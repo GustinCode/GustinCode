@@ -1,6 +1,5 @@
 # Hi, I'm Gustavo! 👋
-
-Welcome to my GitHub profile! I'm a passionate Front-end Developer on a journey to becoming a full-stack developer. I love exploring new technologies and staying up-to-date with the latest trends in tech.
+I'm a passionate Front-end Developer on a journey to becoming a full-stack developer. I love exploring new technologies and staying up-to-date with the latest trends in tech.
 
 ## 🚀 About Me
 
