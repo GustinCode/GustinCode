@@ -3,9 +3,9 @@ I'm a passionate Front-end Developer on a journey to becoming a full-stack devel
 
 ## 🚀 About Me
 
-- 🔭 Currently working on various front-end projects.
+- 🔭 Currently working but open to new oportunities.
 - 🌱 Continuously learning and expanding my skills to become a full-stack developer.
-- 💬 Ask me about web development, JavaScript, or any tech-related topic!
+- 💬 Ask me about: web development, JavaScript, or any tech-related topic!
 - 📫 How to reach me: [gustavogoncalves3ch@gmail.com](mailto:gustavogoncalves3ch@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing video games in my free time.
 
