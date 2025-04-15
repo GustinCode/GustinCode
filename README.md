@@ -46,8 +46,10 @@ Check out my portfolio where I showcase a brief summary of my knowledge and proj
   <img height=200 width=400 title="GustinCode Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinCode&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" />
 </a>
 </div>
+</br>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 <a href="https://github.com/GustinCode/GustinCode/blob/main/README.md">
   <img height=200 width=100% title="GustinCode GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinCode&theme=midnight-purple&hide_border=false" />
 </a>
-
+</div>
 Feel free to explore my repositories and connect with me. Let's build something amazing together!
