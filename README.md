@@ -50,4 +50,4 @@ Check out my portfolio where I showcase a brief summary of my knowledge and proj
   <img height=200 width=100% title="GustinCode GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GustinCode&theme=midnight-purple&hide_border=false" />
 </a>
 
-Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build something amazing together!
+Feel free to explore my repositories and connect with me. Let's build something amazing together!
