@@ -30,6 +30,7 @@ Check out my portfolio where I showcase a brief summary of my knowledge and proj
 ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity&logoColor=9F94E8)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 
 ## 🌐 Connect with Me
 
